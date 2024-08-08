@@ -2,3 +2,8 @@ streamlit
 opencv-python
 numpy
 ultralytics
+
+streamlit==1.18.0
+opencv-python==4.5.3.56
+numpy==1.23.3
+ultralytics==8.0.0
